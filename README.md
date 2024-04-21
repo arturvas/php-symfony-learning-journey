@@ -1,6 +1,5 @@
 ### PHP & Symfony Learning Journey
 
-**Description:**
 This repository is dedicated to my learning path in backend development using PHP and Symfony framework. Here, I'll document my progress, code share and developed projects through an 8-week study plan, aiming upgrade my skills and be prepared for a job opportunity as PHP/Symfony Developer.
 
 **Goals:**
